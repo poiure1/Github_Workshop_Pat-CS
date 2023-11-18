@@ -1,4 +1,4 @@
-# Github_Workshop Pat CS
+# Github_Workshop Pat CS, Book IT
 ( ให้น้องๆจับคู่กับเพื่อนใน class ทำ Project นี้ ด้วยกันเป็นงานคู่ )
 
 ## Instruction
